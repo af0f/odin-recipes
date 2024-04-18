@@ -1,0 +1,44 @@
+#homeimg {
+    height: auto;
+    width: auto;
+}
+
+#header {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+.filler {
+    color: indigo;
+    background-color: pink;
+}
+
+.recipelist {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.recipe {
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: lighter;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.return {
+    color: silver;
+    font-size: 25px;
+    text-align: center;
+    display: block;
+}
+
+.imgcont {
+    text-align: center;
+}
+
+h4 {
+    color: orange;
+}
